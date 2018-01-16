@@ -1,5 +1,6 @@
 import random
 
+
 class RoutePlanner(object):
     """ Complex route planner that is meant for a perpendicular grid network. """
 
